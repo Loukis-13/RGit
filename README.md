@@ -11,7 +11,7 @@ RGit currently implements the following commands:
 * commit
 
 ## Execution
-To execute the scripts Ruby needs to be installed in your system
+To execute the scripts [Ruby](https://www.ruby-lang.org) needs to be installed in your system
 
 ```bash
 ./rgit <command>
